@@ -71,3 +71,7 @@ client_secret_*
 
 #Visual studio code workspace
 .vscode
+
+#Ignore Lock files
+package-lock.json
+yarn.lock
