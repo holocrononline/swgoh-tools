@@ -68,3 +68,6 @@ draft/
 #Google Sheets CLASP config files
 client_secret_*
 .clasprc.json
+
+#Visual studio code workspace
+.vscode
